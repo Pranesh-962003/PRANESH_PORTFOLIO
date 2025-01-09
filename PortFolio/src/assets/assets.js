@@ -7,8 +7,11 @@ import node from './node.svg'
 import express from './express.svg'
 import mongo from './mongo.svg'
 import sql from './mysql.svg'
+import image from './WhatsApp Image 2024-12-16 at 13.07.17_1a2abf34.jpg'
 
-
+export const logo_image = {
+    image
+}
 
 export const skills = [
     {
